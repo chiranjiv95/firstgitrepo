@@ -3,4 +3,7 @@ vi <file-name> - to open a new file in vi editor
 esc + a - to start writing to the file
 esc + : + wq - to write and quit vi editor
 git add <file-name> - to add to stageing area
-git rm --cached <file-name> - remove file from staging area
+git rm --cached <file-name> - remove file from staging area.
+git log - shows a log/history of all our commits.
+
+
