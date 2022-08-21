@@ -12,3 +12,4 @@ git reset HEAD <filename> - undo the chnages (staged)
 git branch <branchname> - to create a new branch.
 git checkout <branchname> to go to a branch.
 git merge <branchname> - to merge the branch with the one you are currently on.
+git branch -d <branchname> - to delete a branch
