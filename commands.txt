@@ -6,4 +6,5 @@ git add <file-name> - to add to stageing area
 git rm --cached <file-name> - remove file from staging area.
 git log - shows a log/history of all our commits.
 git diff commitid1 commitid2 - shows the changes made in different commits
+git log --oneline - displays log in one line
 
